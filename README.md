@@ -17,3 +17,11 @@ The disks are numbered from 1 to n in ascending order of diameter.
 Данная программа решает головоломку: для данного числа дисков n печатает последовательность перекладываний в формате a b c, где a — номер перекладываемого диска, b — номер стержня с которого снимается данный диск, c — номер стержня на который надевается данный диск.
 Диски пронумерованы числами от 1 до n в порядке возрастания диаметров.
  	
+	
+# Run
+To run the program, You can copy the code and paste it into the <a href="https://brython.info/console.html" target="_blank">Python interpreter</a> for the browser.
+You can also install the <a href="https://www.python.org/downloads/" target="_blank">Python interpreter</a> and the IDE - <a href="https://www.jetbrains.com/pycharm/download" target="_blank">JetBrains pycharm (Community)</a> on your computer and run the code in it.
+
+
+# Authors
+<a href="https://github.com/NikitaGr1" target="_blank">NikitaGr1</a>
